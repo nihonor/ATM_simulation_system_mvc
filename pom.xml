@@ -36,6 +36,7 @@
       <version>2.0.0</version>
       <scope>provided</scope>
     </dependency>
+
     <dependency>
       <groupId>org.glassfish.web</groupId>
       <artifactId>jakarta.servlet.jsp.jstl</artifactId>
@@ -44,6 +45,7 @@
 
   </dependencies>
   <build>
+    <finalName>ATM_simulation_system</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>

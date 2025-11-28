@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jpackage" name="ATM_simulation_system">
+    <output-path>$PROJECT_DIR$/out/artifacts/ATM_simulation_system</output-path>
+    <root id="root">
+      <element id="archive" name="ATM_simulation_system.jar">
+        <element id="module-output" name="ATM_simulation_system" />
+      </element>
+    </root>
+  </artifact>
+</component>
